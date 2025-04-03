@@ -96,7 +96,7 @@ git push origin feature/your-feature
 
 ## **📜 License**  
 📝 This project is licensed under the **MIT License**.  
-(If applicable, include a `LICENSE` file in your repository.)  
+ 
 
 ---
 
